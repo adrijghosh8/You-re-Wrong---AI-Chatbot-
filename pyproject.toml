@@ -1,0 +1,21 @@
+[project]
+name = "basic-ai-chat-bot"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+authors = [
+    { name = "Adrij Ghosh", email = "adrijghosh8@gmail.com" }
+]
+requires-python = ">=3.13"
+dependencies = [
+    "dotenv>=0.9.9",
+    "langchain[google-genai]>=1.4.3",
+    "streamlit>=1.65.0",
+]
+
+[project.scripts]
+basic-ai-chat-bot = "basic_ai_chat_bot:main"
+
+[build-system]
+requires = ["uv_build>=0.12.23,<0.13.0"]
+build-backend = "uv_build"
