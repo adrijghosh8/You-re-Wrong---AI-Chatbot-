@@ -4,6 +4,13 @@ A simple AI chatbot that challenges your claims instead of blindly agreeing with
 
 Built using **LangChain** and **Google Gemini**, the chatbot evaluates what you say, explains whether you're correct, identifies what you may have missed, and asks a follow-up question to make you think deeper.
 
+Demo Video -
+
+
+<a href="[https://youtube.com](https://youtu.be/mcPcPCaxEHY)" target="_blank">
+  <img width="1672" height="941" alt="Explain It Like I’m Wrong" src="https://github.com/user-attachments/assets/9213e19b-6093-472c-b896-7ca3bc421d51" />
+</a>
+
 ## ✨ Features
 
 - 🔍 Analyzes user claims
